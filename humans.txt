@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Carlo R. Garcia	garciaram.cal@gmail.com
 
 # THANKS
 
