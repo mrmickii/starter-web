@@ -10,4 +10,6 @@ How to become a master programmer?
 
 ## How to Contribute
 
+Thanks
+
 2023. Git Training.
