@@ -8,6 +8,7 @@
 # THANKS
 
     Thank you all.
+	Sample Text.
 
 # TECHNOLOGY COLOPHON
 
