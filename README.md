@@ -12,4 +12,4 @@ How to become a master programmer?
 
 Thanks
 
-2023. Git Training.
+2023. Git Training. All rights reserved.
